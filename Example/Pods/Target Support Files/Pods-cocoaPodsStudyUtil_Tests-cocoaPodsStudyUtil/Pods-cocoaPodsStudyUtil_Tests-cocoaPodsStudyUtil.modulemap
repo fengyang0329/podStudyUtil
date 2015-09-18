@@ -1,0 +1,6 @@
+framework module cocoaPodsStudyUtil {
+  umbrella header "Pods-cocoaPodsStudyUtil_Tests-cocoaPodsStudyUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}
