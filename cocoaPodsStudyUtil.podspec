@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "cocoaPodsStudyUtil"
-  s.version          = "0.0.1"
+  s.version          = "0.0.2"
   s.summary          = "Just Testing for Private Podspec .自己用来作测试的。加深对cocoaPods的学习"
 
 # This description is used to generate tags and improve search results.
